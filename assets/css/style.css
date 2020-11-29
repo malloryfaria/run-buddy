@@ -67,11 +67,11 @@ section {
     position: relative;
 }
 .hero-form {
-    color: #024e76;
+    border: 3px solid #024e76;
     background-color: #fce138;
-    padding: 60px;
+    padding: 20px;
     width: 500px;
-    border: solid 3px #024e76;
+    color: #024e76;
     position: absolute;
     bottom: 120px;
     right: 140px;
