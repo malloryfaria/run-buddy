@@ -52,3 +52,5 @@ None
 
 ## Contribution
 Made with ❤️ by Mallory
+
+### ©️2019 Run Buddy, Inc 
