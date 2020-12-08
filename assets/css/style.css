@@ -62,16 +62,16 @@
   }
   
   footer h2 {
-    display: inline;
     color: #024e76;
     font-size: 30px;
     margin: 0;
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
   }
   
   footer div {
-    float: right;
     line-height: 1.5;
-    text-align: right;
   }
   
   footer a {
@@ -91,6 +91,24 @@
     background-position: center;
     position: relative;
     height: 600px;
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+  }
+
+  .hero-cta {
+      width: 35%;
+      text-align: right;
+      margin: 3.5%;
+      color: #fff;
+      font-size: 18px;
+      line-height: 1.3;
+  }
+
+  .hero-cta h2 {
+      font-style: italic;
+      font-size: 55px;
+      color: #fce138;
   }
   
   .hero-form {
@@ -102,6 +120,8 @@
     position: absolute;
     bottom: 120px;
     right: 140px;
+    width: 40%;
+    margin: 3.5%;
   }
   
   .hero-form h3 {
