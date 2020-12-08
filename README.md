@@ -53,3 +53,7 @@ None
 ## Contribution
 Made with ❤️ by Mallory
 
+<<<<<<< HEAD
+=======
+### ©️2019 Run Buddy, Inc 
+>>>>>>> 0e52e656136db79902dc32d60765866467787abe
