@@ -1,4 +1,4 @@
-## Run Buddy
+# Run Buddy Inc.
 This project is about learning HTML, CSS, and working with git.
 
 ## Purpose
@@ -52,3 +52,4 @@ None
 
 ## Contribution
 Made with ❤️ by Mallory
+
