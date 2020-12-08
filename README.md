@@ -1,22 +1,21 @@
-## Run Buddy Website
+## Run Buddy
 This project is about learning HTML, CSS, and working with git.
 
-## Build status
+## Purpose
+A website that offers fitness training services.
 
-Live
- 
+## Built With
+* HTML
+* CSS
+
+## Website
+https://malloryfaria.github.io/run-buddy/
+
 ## Screenshots
 
 ![A runner tying their shoes](/assets/images/hero-bg.jpg?raw=true "A runner tying their shoes")
 
-## Tech/framework used
 
-<b>Built with</b>
-- HTML
-- CSS
-
-## Features
-N/A
 
 ## Code Example
 
@@ -51,4 +50,5 @@ N/A
 ## License
 None
 
-© [Mallory](https://github.com/malloryfaria)
+## Contribution
+Made with ❤️ by Mallory
