@@ -1,4 +1,4 @@
-# Run Buddy Inc.
+# Run Buddy
 This project is about learning HTML, CSS, and working with git.
 
 ## Purpose
